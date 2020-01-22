@@ -30,5 +30,5 @@
 * node start
 ## Step five
 * Open KahootKiller and select the toggle Local.
-## Step 6
+## Step six
 * Profit?
