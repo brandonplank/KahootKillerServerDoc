@@ -7,8 +7,8 @@
 * Install Node-JS from https://nodejs.org/en/.
 ## Setp two
 * open terminal and type
-'''git clone --recursive https://github.com/BrandonPlank/Kahoot-Smasher-Server
-cd Kahoot-Smasher-Server
-node start'''
+* git clone --recursive https://github.com/BrandonPlank/Kahoot-Smasher-Server
+* cd Kahoot-Smasher-Server
+* node start
 ## Thats it?!?!?!?!?
 * Yep have fun!
